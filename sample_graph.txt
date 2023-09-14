@@ -1,0 +1,17 @@
+# ::snt But from the first days, Zepeda and her team realised that participating in negotiations was going to be a challenge.
+(c / contrast-01
+      :ARG2 (r / realize-01
+            :ARG0 (a1 / and
+                  :op1 (p5 / person
+                        :name (n / name
+                              :op1 "Zepeda"))
+                  :op2 (t / team
+                        :poss p5))
+            :ARG1 (c2 / challenge-01
+                  :ARG0 (p2 / participate-01
+                        :ARG0 a1
+                        :ARG1 (n2 / negotiate-01)))
+            :time (f / from
+                  :op1 (d / day
+                        :ord (o / ordinal-entity
+                              :value 1)))))
